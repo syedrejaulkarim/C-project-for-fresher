@@ -20,25 +20,7 @@ Declare and implement interfaces in C#
 Operators in C#
 Partial Classes in C#
 Static types in C#
-Object Initializer Syntax
-Covariance and Contravariance
 Extension methods in C#
-if, elseif, else Condition
-Ternary Operator ?:
-Switch Statement
-For Loop
-While Loop
-do while Loop
-Array
-Multidimensional Array
-Jagged Array
-ArrayList
-List
-SortedList
-Dictionary
-Hashtable
-Stack
-Queue
 Tuple
 ValueTuple
 Built-in Exception Classes
