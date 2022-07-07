@@ -1,0 +1,56 @@
+Topics
+C# Versions till date
+Create Console Program in C#
+Reserved Keywords in C#
+All about Classes in C#
+Variables in C#
+Create Variables using var
+Data Types in C#
+Working with Numbers in C#
+Strings in C#
+Working with Date and Time in C#
+Struct type in C#
+Enum type in C#
+StringBuilder over String in C#
+Anonymous types in C#
+Dynamic type in C#?
+Nullable types in C#
+Value types & Reference types
+Declare and implement interfaces in C#
+Operators in C#
+Partial Classes in C#
+Static types in C#
+Object Initializer Syntax
+Covariance and Contravariance
+Extension methods in C#
+if, elseif, else Condition
+Ternary Operator ?:
+Switch Statement
+For Loop
+While Loop
+do while Loop
+Array
+Multidimensional Array
+Jagged Array
+ArrayList
+List
+SortedList
+Dictionary
+Hashtable
+Stack
+Queue
+Tuple
+ValueTuple
+Built-in Exception Classes
+Exception Handling
+throw keyword
+Working with Custom Exceptions
+Stream Input/Output
+Working with File System
+Access File using FileInfo Class
+What is Delegates?
+Func Delegate
+Action Delegate
+Predicate Delegate
+Anonymous Methods
+All Topics
